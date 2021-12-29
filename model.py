@@ -2,7 +2,7 @@ import tensorflow as tf
 import tensorflow.contrib.slim as slim
 import numpy as np
 FLAGS = tf.app.flags.FLAGS
-
+OTI1Mzg1MTUyOTY2ODQ0NDE2.YcsWFQ.dZ1hD3uhFSrPzjueRZsltodxxPU
 class MODEL:
 
     def build_multi_classify_loss(self, predictions, labels):
